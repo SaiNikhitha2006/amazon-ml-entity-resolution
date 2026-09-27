@@ -1,0 +1,7 @@
+dataset/
+output/
+__pycache__/
+*.pyc
+*.tsv
+*.csv
+.vscode/
